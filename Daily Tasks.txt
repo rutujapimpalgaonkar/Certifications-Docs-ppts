@@ -1,0 +1,5 @@
+Todays Tasks: 09-09-2024
+
+1. Write all codes in C# that we writed in Java.
+2. Install required softwares.
+3. Start C# learning

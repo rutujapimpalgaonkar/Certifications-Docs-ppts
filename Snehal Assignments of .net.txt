@@ -1,0 +1,41 @@
+Topic	Duration
+C# Programming	10
+SQL Server	4
+Git & Github	3
+Automated Testing with MSTest and Async Programming in .Net	1
+ADO.NET and LINQ and Entity Framework	4
+ASP .Net MVC5 Fundamentals	4
+ASP .Net Core Fundamentals	3
+ASP.Net Core with Entity Framework	3
+Building an API with .Net Core	2
+ASP.Net Core Authentication	1
+HTML CSS JavaScript	4
+ES6 & TypeScript	2
+Angular (Optional with React)	6
+Case Study	14
+ 
+
+
+C# Program to Check Whether a Given Number is Even or Odd
+C# Program to Print Odd Numbers in a Given Range
+C# Program to Check Whether a Number is Positive or Not
+C# Program to Find the Largest of Two Numbers
+C# Program to Swap Two Numbers
+C# Program to Check if a Number is Divisible by 2
+C# Program to Find the Sum of All the Multiples of 3 and 5
+C# Program to Find Sum of Digits of a Number
+C# Program to Reverse a Number
+C# Program to Reverse a Number and Check if it is a Palindrome
+C# Program to Find the Sum of Two Binary Numbers
+C# Program to Multiply Two Binary Numbers
+C# Program to Calculate the Sum, Multiplication, Division and Subtraction of Two Numbers(use switch case)
+ 
+C# Program to Generate Fibonacci Series
+C# Program to Print the Factorial of a Given Number
+C# Program to Print All the Prime Numbers between 1 to 100
+C# Program to Find the Largest Prime Factor of a Number
+C# Program to Check Whether a Given Number is Perfect Number
+C# Program to Check Armstrong Number
+C# Program to Print Armstrong Number between 1 to 1000
+C# Program to Generate the Sum of N Numbers
+C# Program to Find the Sum of First 50 Natural Numbers using For Loop

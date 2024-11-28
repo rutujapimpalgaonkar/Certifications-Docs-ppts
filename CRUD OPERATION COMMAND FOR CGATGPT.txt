@@ -1,0 +1,1 @@
+how to create console application with ASP.NET MVC using vscode """i want to create application for student management in which student is entity class student utility contains methods of crud operation, also create seprate class for database connection, create test class which have main method to run all these and explain all"""
